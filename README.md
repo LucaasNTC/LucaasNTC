@@ -6,7 +6,6 @@ I'm glad you're here! I'm passionate about programming and a FullStack developer
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> What I'm up to
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [The odin projec](https://www.theodinproject.com/).
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="25" height="25" /> Working on awesome web projects at [Freelancer](https://www.freelancer.com/).
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Technologies I'm learning
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, Ruby, HTML&CSS, and GO are some of the technologies on my radar.
