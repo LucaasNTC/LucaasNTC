@@ -1,51 +1,70 @@
-# Lucas Correa
+# Hi there! I'm Lucas Correa
 
-### Desenvolvedor de Software | Integrações | Sustentação de Sistemas
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=420EF7&random=false&width=435&lines=%F0%9F%92%BB+I'm+a+Software+Engineer;%F0%9F%8C%8E+I+live+in+Rio+De+Janeiro%2C+Brazil;%F0%9F%A4%A9+I+love+anime+and+manga;%F0%9F%A7%A9+I+love+coding!!!)](https://git.io/typing-svg)
 
-Desenvolvedor com experiência em desenvolvimento web, suporte técnico N2 e sustentação de sistemas. Trabalho com investigação de incidentes, consultas SQL, análise de logs e payloads JSON, integrações via APIs e validação de correções. Gosto de entender a causa do problema, preservar a integridade dos dados e construir soluções simples e confiáveis.
+I'm glad you're here! I'm passionate about programming and a FullStack developer in Ruby, currently studying Systems Analysis and Development at AMPLI. I'm specializing in languages such as JavaScript, HTML&CSS, Ruby, and GO for efficient software development. I constantly seek to improve my technical skills to deliver high-quality results and positively impact people with my work. I've been dedicating myself to programming quite a bit, and for future projects, I plan to share my knowledge on LinkedIn to help and motivate others who are starting out in the programming field.
 
-**Portfólio:** [lucascorrea.netlify.app](https://lucascorrea.netlify.app/) · **LinkedIn:** [Lucas Correa](https://www.linkedin.com/in/lucascorrea1997/) · **Contato:** [lucas-correa18@hotmail.com](mailto:lucas-correa18@hotmail.com)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" height="30" /> What I'm up to
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Woman%20Student%20Medium-Dark%20Skin%20Tone.png" alt="Woman Student Medium-Dark Skin Tone" width="25" height="25" /> Enhancing my development skills at [The odin projec](https://www.theodinproject.com/).
 
-## Áreas de atuação
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nail Polish Medium Skin Tone" width="30" height="30" /> Technologies I'm learning
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> JavaScript, Ruby, HTML&CSS, and GO are some of the technologies on my radar.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" /> Also keen on learning Python, React, and C#!!!
 
-- **Desenvolvimento web:** JavaScript, TypeScript, HTML, CSS, React, Next.js, Vue.js e Node.js.
-- **Backend e integrações:** Python, FastAPI, APIs REST, JSON, webhooks e automação de fluxos.
-- **Dados e diagnóstico:** SQL, MySQL, PostgreSQL/PostGIS, análise de logs, causa raiz e testes de regressão.
-- **Ferramentas:** Git, GitHub, Power BI, Linux, Windows, Microsoft Office, Puppeteer e Discord.js.
-- **Outras linguagens estudadas ou utilizadas em projetos:** Ruby, Go, Java, C#, C e C++.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Cowboy%20Hat%20Face.png" alt="Cowboy Hat Face" width="30" height="30" /> Let's connect!
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lucas-correa18@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucas-correa-6b3ab5141/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/lucaasntc00/)
 
-## Projetos selecionados
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Technologies I use in my day-to-day
 
-### AgroIA Platform — privado
-Plataforma SaaS de gestão rural com copiloto de IA contextual. O escopo inclui operações, estoque, máquinas, financeiro, equipe, clima e alertas, além de fluxos de interação via WhatsApp e comandos que exigem confirmação.
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,c,go,ruby,cpp" />
+</a>
 
-**Stack:** Next.js, React, TypeScript, FastAPI, SQLAlchemy, PostgreSQL/PostGIS e integrações de IA.
+### Frameworks and Libraries
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,discordjs" />
+</a>
 
-### Atlas AI — privado
-Ecossistema em desenvolvimento com repositórios separados para aplicativo Android e backend. O repositório Android utiliza Kotlin; detalhes funcionais permanecem privados.
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,discord,bots,windows,unity" />
+</a>
 
-### Assistente de IA para WhatsApp — experimento
-Protótipo para explorar automação conversacional e integração com modelos de IA.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=LucasCorrea00&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
-**Stack:** Node.js, WhatsApp Web.js, OpenAI e Puppeteer.
+### My purpose
+My goal in the tech journey is inspired by Steve Jobs' famous quote: "Stay hungry, stay foolish." It's the hunger to learn, the audacity to try new things, and the passion to positively impact people's lives through coding that drive me to overcome challenges and keep innovating. In this ever-evolving universe, curiosity and the willingness to take risks are our greatest allies to achieve the extraordinary.
 
-### Bot de FAQ para Discord — projeto pessoal
-Automação de perguntas frequentes e rotinas de suporte para comunidades.
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" height="30" /> My GitHub Stats
 
-**Stack:** JavaScript e Discord.js.
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Engagement Level </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=LucasCorrea00&show_icons=true&theme=radical" alt="GitHub Stats">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> GitHub Streak </summary>
+  <p>
+    <img src="https://streak-stats.demolab.com?user=LucasCorrea00&theme=radical&hide_border=true&locale=en" alt="GitHub Streak">
+  </p>
+</details>
+<details>
+  <summary> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> Top Languages </summary>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCorrea00&size_weight=0.5&count_weight=0.5&theme=radical" alt="Top Langs">
+  </p>
+</details>
 
-> Alguns repositórios são privados. Os resumos acima apresentam o contexto dos projetos sem expor código, credenciais ou dados de acesso.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
-## Formação
-
-- **Análise e Desenvolvimento de Sistemas (ADS)** — AMPLI, 2023–2025; graduado.
-- **Engenharia de Software** — ensino superior, 2017–2021.
-- **CC50 — Ciência da Computação de Harvard** — curso, 2024.
-
-## Vamos conversar
-
-Estou aberto a oportunidades e conversas sobre desenvolvimento de software, integrações, suporte N2 e análise técnica.
-
-- **Portfólio:** https://lucascorrea.netlify.app/
-- **LinkedIn:** https://www.linkedin.com/in/lucascorrea1997/
-- **E-mail:** lucas-correa18@hotmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&pause=1000&color=FFFFFF&vCenter=true&random=false&width=600&height=27&lines=%F0%9F%98%8D+Thx+4+everything;%F0%9F%92%99+Pls+follow+me+on+Linkedin;%F0%9F%A7%90+Check+out+my+projects;%F0%9F%98%89+Feel+free+to+reach+me+out;%F0%9F%92%96+Have+a+nice+day!;%F0%9F%91%8B%F0%9F%8F%BD+%C3%80+la+prochaine)](https://git.io/typing-svg)
